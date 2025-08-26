@@ -36,7 +36,7 @@ Current training status across all models:
 
 | Model | Epoch | Train Loss | Val Loss | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| ViorikaLM-CHAT | 2 | ~6.0 | N/A | Initial pre-training phase |
+| ViorikaLM-CHAT | 2 | ~6.0 | No | Initial pre-training phase |
 
 ## 🤝 Contributing & Feedback
 
